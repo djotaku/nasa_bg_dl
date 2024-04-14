@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+	<title>NASA Image of the Day</title>
+	<description>The latest NASA &quot;Image of the Day&quot; image.</description>
+	<link>https://www.nasa.gov/image-of-the-day/</link>
+	<atom:link href="https://www.nasa.gov/feeds/iotd-feed" rel="self" type="application/rss+xml" />
+	<language>en-us</language>
+	<managingEditor>brian.dunbar@nasa.gov (Brian Dunbar)</managingEditor>
+	<webMaster>brian.dunbar@nasa.gov (Brian Dunbar)</webMaster>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<item>
+			<title>The First Space Shuttle</title>
+			<link>https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/</link>
+			<description>The new era in space flight began on April 12, 1981. That is when the first Space Shuttle mission (STS-1) was launched. The Marshall Space Flight Center developed the propulsion system for the Space Shuttle. This photograph depicts the launch of the Space Shuttle Orbiter Columbia crewed with two astronauts, John Young and Robert Crippen.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/8111969orig.jpg" length="9319438" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/launch-of-sts-1-from-ksc-complex-39/</guid>
+			<pubDate>Fri, 12 Apr 2024 17:38 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Seeing Totality</title>
+			<link>https://www.nasa.gov/image-detail/2024-total-solar-eclipse/</link>
+			<description>A total solar eclipse is seen in Dallas, Texas on Monday, April 8, 2024. A total solar eclipse swept across a narrow portion of the North American continent from Mexico’s Pacific coast to the Atlantic coast of Newfoundland, Canada. A partial solar eclipse was visible across the entire North American continent along with parts of Central America and Europe.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/53641212344-be1e94e20c-o.jpg" length="6678722" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/2024-total-solar-eclipse/</guid>
+			<pubDate>Tue, 09 Apr 2024 16:27 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Astronauts Protect Their Eyes with Eclipse Glasses</title>
+			<link>https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/</link>
+			<description>NASA astronauts Stephen Bowen, left, Frank Rubio, Warren Hoburg, and UAE (United Arab Emirates) astronaut Sultan Alneyadi, right, pose for a photo wearing solar glasses, Tuesday, March 19, 2024, at the Mary W. Jackson NASA Headquarters building in Washington. Bowen, Hoburg, and Alneyadi spent 186 days aboard the International Space Station as part of Expedition 69; while Rubio set a new record for the longest single spaceflight by a U.S. astronaut, spending 371 days in orbit on an extended mission spanning Expeditions 68 and 69.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/nhq202403190047orig.jpg" length="19675915" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/expedition-69-crew-wears-solar-eclipse-glasses/</guid>
+			<pubDate>Fri, 05 Apr 2024 17:46 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Exobiology Deputy Branch Chief Melissa Kirven-Brooks</title>
+			<link>https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/</link>
+			<description>“… I&#039;ve just seen such tremendous things happen since I&#039;ve been part of the Astrobiology Program, and that&#039;s why I&#039;m pretty confident we&#039;re going to find life elsewhere, because there are just so many brilliant people working on this.” — Melissa Kirven-Brooks, Exobiology Deputy Branch Chief and Future Workforce Lead of the NASA Astrobiology Program, NASA’s Ames Research Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/melissakirvenbrooks-acd24-0032-002.jpg" length="11198304" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/environmental-portrait-of-deputy-branch-chief-dr-melissa-kirven-2/</guid>
+			<pubDate>Thu, 04 Apr 2024 16:09 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Carving a Path</title>
+			<link>https://www.nasa.gov/image-detail/iss069e060266-2/</link>
+			<description>What looks like highways going through a metropolitan area are actually a series of glaciers carving their way through the Karakoram mountain range north of the Himalayas. This photograph was taken from the International Space Station as it orbited 263 miles above.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/iss069e060266orig.jpg" length="4201465" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/iss069e060266-2/</guid>
+			<pubDate>Wed, 03 Apr 2024 18:25 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A Home for Astronauts around the Moon</title>
+			<link>https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/</link>
+			<description>The primary structure of the Gateway space station&#039;s HALO (Habitation and Logistics Outpost) module is one step closer to launch following welding completion in Turin, Italy. HALO is one of four Gateway modules where astronauts will live, conduct science, and prepare for lunar surface missions. NASA is partnering with Northrop Grumman and their subcontractor Thales Alenia Space to develop HALO.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/halo-shell-illuminatedorig.jpg" length="3585349" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/halo-shell-illuminatedorig/</guid>
+			<pubDate>Tue, 02 Apr 2024 19:12 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Safety First!</title>
+			<link>https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/</link>
+			<description>Safety is important, no matter where you&#039;re viewing the eclipse. NASA astronauts aboard the International Space Station show off their eclipse glasses, which allow safe viewing of the Sun during a solar eclipse.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/04/iss070e129908.jpg" length="5795515" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/gmt087_23_34_loral-ohara_pao-photos-solar-eclipse/</guid>
+			<pubDate>Mon, 01 Apr 2024 17:05 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>International Space Station Program Deputy Chief Scientist Meghan Everett</title>
+			<link>https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/</link>
+			<description>“One of my cornerstone pinnacles [is], ‘Show up to work [and] life with integrity and intent.’ So, accomplish your goals with integrity, intent, and a mission. Stick to that and have the confidence to do that, and be OK with messing up and failing, and have fun with those things.&#034; — Meghan Everett, International Space Station Program Deputy Chief Scientist, NASA’s Johnson Space Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/meghaneverett-jsc2024e019923.jpg" length="3922247" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/meghaneverett-jsc2024e019923/</guid>
+			<pubDate>Fri, 29 Mar 2024 14:55 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Mariner 7 Goes to Mars</title>
+			<link>https://www.nasa.gov/image-detail/101-ksc-69p-223orig/</link>
+			<description>An Atlas-Centaur launched at 5:22 p.m. EST on March 27, 1969, to send Mariner 7 on its way to Mars. Mariner 7 joined its sister spacecraft, Mariner 6, on a journey that carried them within 2,000 miles of the red planet that summer. Mariner 6 was launched from Kennedy Space Center in Florida on Feb. 24 and investigated the Martian equatorial area while Mariner 7 concentrated on the south polar cap.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/101-ksc-69p-223orig.jpg" length="489330" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/101-ksc-69p-223orig/</guid>
+			<pubDate>Thu, 28 Mar 2024 16:53 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Sending “Water” to Europa</title>
+			<link>https://www.nasa.gov/image-detail/pia26063orig/</link>
+			<description>NASA&#039;s Europa Clipper spacecraft will carry a special message when it launches in October 2024 and heads toward Jupiter&#039;s moon Europa. The moon shows strong evidence of an ocean under its icy crust, with more than twice the amount of water of all of Earth&#039;s oceans combined. A triangular metal plate, seen here, will honor that connection to Earth.&#013;&#010;&#013;&#010;The plate is made of tantalum metal and is about 7 by 11 inches (18 by 28 centimeters). It is engraved on both sides and seals an opening in the electronics vault, which houses the spacecraft&#039;s sensitive electronics. The art on this side of the plate features waveforms that are visual representations of the sound waves formed by the word &#034;water&#034; in 103 languages. The waveforms radiate out from a symbol representing the American Sign Language sign for &#034;water.&#034;</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/pia26063orig.jpg" length="2921910" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/pia26063orig/</guid>
+			<pubDate>Wed, 27 Mar 2024 15:57 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>CADRE Rovers’ Test Drive in the Mars Yard</title>
+			<link>https://www.nasa.gov/image-detail/pia26168orig/</link>
+			<description>Two full-scale development model rovers that are part of NASA&#039;s CADRE (Cooperative Autonomous Distributed Robotic Exploration) technology demonstration drive in the Mars Yard at the agency&#039;s Jet Propulsion Laboratory in Southern California in August 2023. The project is designed to show that a group of robotic spacecraft can work together as a team to accomplish tasks and record data autonomously – without explicit commands from mission controllers on Earth.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/pia26168orig.jpg" length="2597945" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/pia26168orig/</guid>
+			<pubDate>Tue, 26 Mar 2024 19:43 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Hubble Views a Galaxy Under Pressure</title>
+			<link>https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/</link>
+			<description>This NASA/ESA Hubble Space Telescope image shows LEDA 42160, a galaxy about 52 million light-years from Earth in the constellation Virgo. The dwarf galaxy is one of many forcing its way through the comparatively dense gas in the massive Virgo cluster of galaxies. The pressure exerted by this intergalactic gas, known as ram pressure, has dramatic effects on star formation in LEDA 42160.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/hubble-leda42160-potw2411a-1.jpg" length="5604904" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/hubble-views-a-galaxy-under-pressure/</guid>
+			<pubDate>Mon, 25 Mar 2024 15:30 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A Tranquil Sunrise</title>
+			<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/</link>
+			<description>A fast boat is seen at sunrise after the landing of SpaceX Dragon Endurance spacecraft a few hours earlier in the Gulf of Mexico off the coast of Pensacola, Florida, Tuesday, March 12, 2024. The Crew-7 members returned after nearly six-months in space as part of Expedition 70 aboard the International Space Station.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/53583514241-bf077ee430-o-1.jpg" length="24717910" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/nasas-spacex-crew-7-splashdown-5/</guid>
+			<pubDate>Thu, 21 Mar 2024 16:47 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Ocean Worlds Planetary Scientist Dr. Lynnae Quick</title>
+			<link>https://www.nasa.gov/image-detail/lynnae-quick-portrait/</link>
+			<description>&#034;I&#039;ve come a long way from thinking, &#039;Well, I did this whole dissertation on geysers, what it would take for them to erupt, for a spacecraft to see them, and that people might not take me seriously as a scientist because of it,&#039; to being on the Europa Clipper camera team involved in investigating these plumes and ensuring we can image them if they&#039;re there. It&#039;s a full-circle moment.&#034;  – Dr. Lynnae Quick, Ocean Worlds Planetary Scientist, NASA’s Goddard Space Flight Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/nhq202402070010.jpg" length="6433438" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/lynnae-quick-portrait/</guid>
+			<pubDate>Wed, 20 Mar 2024 15:07 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.</title>
+			<link>https://www.nasa.gov/image-detail/s65-56151orig/</link>
+			<description>Gemini VI astronauts Thomas P. Stafford (left), pilot, and Walter M. Schirra Jr., command pilot, are shown during suiting up exercises at Cape Kennedy, Florida.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/s65-56151orig.jpg" length="803344" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/s65-56151orig/</guid>
+			<pubDate>Tue, 19 Mar 2024 14:29 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>St. Patrick&#039;s Aurora Illuminates the Night Sky</title>
+			<link>https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/</link>
+			<description>This majestic image of the dazzling green lights of the aurora borealis was captured on March 17, 2015, around 5:30 a.m. EDT in Donnelly Creek, Alaska.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd.jpg" length="1832166" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/gsfc-20171208-archive-e000760orig-stpatricksaurora-iotd/</guid>
+			<pubDate>Fri, 15 Mar 2024 17:53 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Celebrating Pi Day on the International Space Station</title>
+			<link>https://www.nasa.gov/image-detail/iss068e075336/</link>
+			<description>NASA astronaut and Expedition 68 Flight Engineer Stephen Bowen holds a small pie that is festively decorated in commemoration of Pi Day aboard the International Space Station.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/iss068e075336orig-iotd.jpg" length="3345615" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/iss068e075336/</guid>
+			<pubDate>Thu, 14 Mar 2024 18:47 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Apollo 9 Crew Comes Home</title>
+			<link>https://www.nasa.gov/image-detail/s69-27919orig/</link>
+			<description>Immediately after splashdown, a recovery helicopter from the USS Guadalcanal hovers over the Apollo 9 spacecraft. Still inside the Command Module are astronauts James A. McDivitt, David R. Scott, and Russell L. Schweickart. Splashdown occurred at 12:00:53 p.m. EST March 13, 1969, only 4.5 nautical miles from the USS Guadalcanal, the prime recovery ship, to conclude a successful 10-day Earth-orbital mission in space.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/s69-27919orig.jpg" length="3495600" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/s69-27919orig/</guid>
+			<pubDate>Wed, 13 Mar 2024 18:47 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA Astronauts Jasmin Moghbeli and Loral O’Hara Read First Woman</title>
+			<link>https://www.nasa.gov/image-detail/iss070e064628/</link>
+			<description>Expedition 70 Flight Engineers (from left) Jasmin Moghbeli and Loral O&#039;Hara, both NASA astronauts, are pictured inside the International Space Station&#039;s cupola holding NASA&#039;s first graphic novel, &#034;First Woman.&#034;</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/iss070e064628orig.jpg" length="2578251" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/iss070e064628/</guid>
+			<pubDate>Tue, 12 Mar 2024 18:03 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Moon and Sun Over Wyoming</title>
+			<link>https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/</link>
+			<description>The Moon is seen passing in front of the Sun at the point of the maximum of the partial solar eclipse near Banner, Wyoming on Monday, Aug. 21, 2017. A total solar eclipse swept across a narrow portion of the contiguous United States from Lincoln Beach, Oregon to Charleston, South Carolina. A partial solar eclipse was visible across the entire North American continent along with parts of South America, Africa, and Europe. Photo Credit: (NASA/Joel Kowsky)</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/nhq201708210205orig.jpg" length="649660" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/2017-total-solar-eclipse-44/</guid>
+			<pubDate>Mon, 11 Mar 2024 17:53 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Martian Barchan Dunes</title>
+			<link>https://www.nasa.gov/image-detail/pia23669orig/</link>
+			<description>This image shows two types of sand dunes on Mars. The small dots are called barchan dunes, and from their shape we can tell that they are upwind. The downwind dunes are long and linear. These two types of dune each show the wind direction in different ways: the barchans have a steep slope and crescent-shaped &#034;horns&#034; that point downwind, while the linear dunes are stretched out along the primary wind direction. Linear dunes, however, typically indicate a wind regime with at least two different prevailing winds, which stretch out the sand along their average direction. In several places in this image, you can find barchan dunes turning into linear dunes as they are stretched out, but they both seem into indicate the same wind direction.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/pia23669orig.jpg" length="944875" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/pia23669orig/</guid>
+			<pubDate>Fri, 08 Mar 2024 19:17 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Apollo 9 Astronaut David Scott’s Spacewalk</title>
+			<link>https://www.nasa.gov/image-detail/as09-20-3064orig/</link>
+			<description>Excellent view of the docked Apollo 9 command and service modules (CSM) and lunar module (LM), with Earth in the background, during astronaut David R. Scott&#039;s stand-up spacewalk, on the fourth day of the Apollo 9 Earth-orbital mission. Scott, command module pilot, is standing in the open hatch of the command module. Astronaut Russell L. Schweickart, lunar module pilot, took this photograph of Scott from the porch of the LM. Inside the LM was astronaut James A. McDivitt, Apollo 9 commander.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/as09-20-3064orig.jpg" length="3417631" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/as09-20-3064orig/</guid>
+			<pubDate>Thu, 07 Mar 2024 17:42 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA’s Newest Astronauts</title>
+			<link>https://www.nasa.gov/image-detail/photo-taken-during-the-2024-nasa-astronaut-graduation-ceremony-held-in-the-teague-auditorium-at-nasas-johnson-space-center-2/</link>
+			<description>NASA newest class of astronauts, selected in 2021, graduate during a ceremony on March 5, 2024, at the at the agency’s Johnson Space Center in Houston.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/jsc2024e017822.jpg" length="309791" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/photo-taken-during-the-2024-nasa-astronaut-graduation-ceremony-held-in-the-teague-auditorium-at-nasas-johnson-space-center-2/</guid>
+			<pubDate>Wed, 06 Mar 2024 15:46 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Women of NASA Langley Research Center</title>
+			<link>https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/</link>
+			<description>In honor of Women’s History Month 2024 and those who paved the way for them, hundreds of female staff – from artists to administrative support, educators to engineers, and scientists to safety officers – gathered in front of the Katherine G. Johnson Computational Research Facility at NASA’s Langley Research Center in Hampton, Virginia, on Feb. 6, 2024.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/53548171424-81c8fe55ce-o.jpg" length="14551412" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/53548171424-81c8fe55ce-o/</guid>
+			<pubDate>Mon, 04 Mar 2024 18:54 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Hubble Uncovers a Celestial Fossil</title>
+			<link>https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/</link>
+			<description>This densely populated group of stars is the globular cluster NGC 1841, which is part of the Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way galaxy that lies about 162,000 light-years away. Satellite galaxies are bound by gravity in orbits around a more massive host galaxy. We typically think of the Andromeda Galaxy as our galaxy’s nearest galactic companion, but it is more accurate to say that Andromeda is the nearest galaxy that is not in orbit around the Milky Way galaxy. In fact, dozens of satellite galaxies orbit our galaxy and they are far closer than Andromeda. The largest and brightest of these is the LMC, which is easily visible to the unaided eye from the southern hemisphere under dark sky conditions away from light pollution.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/03/hubble-ngc1841-potw2409a.jpg" length="8930204" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/hubble-uncovers-a-celestial-fossil/</guid>
+			<pubDate>Fri, 01 Mar 2024 17:47 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Odysseus Lands on the Moon</title>
+			<link>https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/</link>
+			<description>Following a launch on Feb. 15, Intuitive Machines’ Odysseus lander touched down in the Moon’s south polar region on Feb. 22 and has since transmitted valuable scientific data back to Earth.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/csys-surface-hdr-mix-no-logo.png" length="4339194" type="image/png" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/csys-surface-hdr-mix-no-logo/</guid>
+			<pubDate>Thu, 29 Feb 2024 18:32 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Atmospheric Science Branch Chief Dr. Charles Gatebe</title>
+			<link>https://www.nasa.gov/image-detail/charlesgatebe/</link>
+			<description>&#034;Anyone you see on the streets, their color or background doesn&#039;t matter; we all come into this world the same way. You&#039;re equipped with skills, so find your passion and go for it.&#034; – Dr. Charles Gatebe, Chief of Atmospheric Science Branch, NASA&#039;s Ames Research Center </description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/charlesgatebe.jpg" length="1448527" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/charlesgatebe/</guid>
+			<pubDate>Wed, 28 Feb 2024 18:34 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A Splash of Pink</title>
+			<link>https://www.nasa.gov/image-detail/05pd2169orig/</link>
+			<description>A female (left) and a male roseate spoonbill get together near the tall grasses at the edge of a pond in the Merritt Island National Wildlife Refuge, northwest of Kennedy Space Center in Florida. Spoonbills inhabit areas of mangrove such as on the coasts of southern Florida and Texas. These birds feed on shrimps and fish in the shallow water, sweeping their bills from side to side. This and other wildlife abound throughout Kennedy as it shares a boundary with the Wildlife Refuge, home to some of the nation’s rarest and most unusual species of wildlife. The wildlife refuge is a habitat for more than 310 species of birds, 25 mammals, 117 fishes and 65 amphibians and reptiles.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/05pd2169orig.jpg" length="447125" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/05pd2169orig/</guid>
+			<pubDate>Tue, 27 Feb 2024 18:26 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA, Partners Test Artemis II Recovery Procedures</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-497/</link>
+			<description>Members of NASA’s Exploration Ground System’s Landing and Recovery team and partners from the Department of Defense aboard the USS San Diego practice recovery procedures during Underway Recovery Test 11 (URT-11) off the coast of San Diego on Thursday, Feb. 22, 2024. The team works to secure the Crew Module Test Article and align it on its stand inside the ship’s well deck. URT-11 is the eleventh in a series of Artemis recovery tests, and the first time NASA and its partners put their Artemis II recovery procedures to the test with the astronauts.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240222-ph-ilw01-0012orig.jpg" length="3120462" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-497/</guid>
+			<pubDate>Mon, 26 Feb 2024 17:28 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Hubble Views an Active Star-Forming Galaxy</title>
+			<link>https://www.nasa.gov/image-detail/a-high-amount-of-ram/</link>
+			<description>This NASA/ESA Hubble Space Telescope image features IC 3476, a dwarf galaxy that lies about 54 million light-years from Earth in the constellation Coma Berenices. While this image does not look very dramatic – we might say it looks almost serene – the actual physical events taking place in IC 3476 are highly energetic. In fact, the little galaxy is undergoing a process called ram pressure stripping that is driving unusually high levels of star formation in regions of the galaxy.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/potw2408a.jpg" length="4284105" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/a-high-amount-of-ram/</guid>
+			<pubDate>Fri, 23 Feb 2024 21:16 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Shanghai from Space</title>
+			<link>https://www.nasa.gov/image-detail/iss070e096351-2/</link>
+			<description>The city lights of Shanghai, the most populous city in China with a population of about 24.9 million, and the Huangpu River flowing through downtown, are pictured from the International Space Station as it orbited 260 miles above the East China Sea.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/iss070e096351orig.jpg" length="6203422" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/iss070e096351-2/</guid>
+			<pubDate>Thu, 22 Feb 2024 18:06 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Studying Arctic Ice</title>
+			<link>https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/</link>
+			<description>On July 12, 2011, crew from the U.S. Coast Guard Cutter Healy retrieved a canister dropped by parachute from a C-130, which brought supplies for some mid-mission fixes. The ICESCAPE, or &#034;Impacts of Climate on Ecosystems and Chemistry of the Arctic Pacific Environment, mission was a NASA shipborne investigation to study how changing conditions in the Arctic affect the ocean&#039;s chemistry and ecosystems. The bulk of the research took place in the Beaufort and Chukchi seas in summer 2010 and 2011.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/7348420132-79aab0d0d9-o.jpg" length="3941801" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/7348420132-79aab0d0d9-o/</guid>
+			<pubDate>Wed, 21 Feb 2024 20:01 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Former Deputy Program Manager Dr. Camille Alleyne</title>
+			<link>https://www.nasa.gov/image-detail/jsc2024e005756/</link>
+			<description>&#034;You must have grit, resilience, courage, and strength. I&#039;m able to really share all the wisdom and the lessons I&#039;ve learned throughout my career with [the students I mentor], and that makes a difference.&#034; — Dr. Camille Alleyne, Deputy Program Manager, Commercial LEO Development Program, NASA’s Johnson Space Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/jsc2024e005756.jpg" length="784150" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/jsc2024e005756/</guid>
+			<pubDate>Tue, 20 Feb 2024 18:11 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Signing Our Names</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-491/</link>
+			<description>The Orion spacecraft for NASA’s Artemis II mission received its latest makeover. Teams adhered the agency’s iconic “worm” logo and ESA (European Space Agency) insignia on the spacecraft’s crew module adapter on Sunday, Jan. 28, inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240201-ph-rns01-0001orig-1.jpg" length="9472420" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-491/</guid>
+			<pubDate>Fri, 16 Feb 2024 19:17 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Intuitive Machines Launches to the Moon</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-487/</link>
+			<description>A SpaceX Falcon 9 rocket carrying Intuitive Machines’ Nova-C lunar lander lifts off from Launch Pad 39A at NASA’s Kennedy Space Center in Florida at 1:05 a.m. EST on Thursday, Feb. 15, 2024. As part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, Intuitive Machines’ first lunar mission will carry NASA science and commercial payloads to the Moon to study plume-surface interactions, space weather/lunar surface interactions, radio astronomy, precision landing technologies, and a communication and navigation node for future autonomous navigation technologies.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240215-ph-kls01-0023orig.jpg" length="14141848" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-487/</guid>
+			<pubDate>Thu, 15 Feb 2024 19:57 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A Floridian Sunset</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-486/</link>
+			<description>Photographers at NASA capture the sunset on Tuesday, Jan. 30, 2024, near the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida. The iconic Vehicle Assembly Building, completed in 1966 and currently used for assembly of NASA’s Space Launch System rocket for Artemis missions, remains the only building in which rockets were assembled that carried humans to the surface of another world.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240130-ph-jbs01-0012orig.jpg" length="17168951" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-486/</guid>
+			<pubDate>Wed, 14 Feb 2024 17:39 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NGC 4254 (Webb Image)</title>
+			<link>https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/</link>
+			<description>It’s oh-so-easy to be mesmerized by this spiral galaxy. Follow its clearly defined arms, which are brimming with stars, to its center, where there may be old star clusters and – sometimes – active supermassive black holes. NASA’s James Webb Space Telescope delivered highly detailed scenes of this and other nearby spiral galaxies in a combination of near- and mid-infrared light.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/53495965723-5c5c821f78-o.png" length="4243566" type="image/png" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/53495965723-5c5c821f78-o/</guid>
+			<pubDate>Tue, 13 Feb 2024 18:22 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Astronaut Charles Bolden Preps for Deorbit</title>
+			<link>https://www.nasa.gov/image-detail/sts060-302-001orig/</link>
+			<description>STS-60 commander Charles F. Bolden is seen at the commander&#039;s station on the forward flight deck of the space shuttle Discovery. He is wearing the orange launch and entry suit. Bolden and his crewmates performed proximity operations with the Russian Mir space station.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/sts060-302-001orig.jpg" length="1737928" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/sts060-302-001orig/</guid>
+			<pubDate>Mon, 12 Feb 2024 19:36 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Astronaut Bob Hines</title>
+			<link>https://www.nasa.gov/image-detail/bobhines-fon-52257560772-244c61aeef-k/</link>
+			<description>&#034;... Being able to see the world from a different perspective is incredible, and getting to fly in space was the culmination of that, seeing the world from an entirely new vantage point.&#034; — Bob Hines, Astronaut, NASA&#039;s Johnson Space Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/bobhines-fon-52257560772-244c61aeef-k.jpg" length="646619" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/bobhines-fon-52257560772-244c61aeef-k/</guid>
+			<pubDate>Fri, 09 Feb 2024 19:25 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Skylab 4 Recovery Ends Program</title>
+			<link>https://www.nasa.gov/image-detail/s74-17744orig/</link>
+			<description> The crewmen of the third and final manned Skylab mission relax on the USS New Orleans, prime recovery ship for their mission, about an hour after their Command Module splashed down at 10:17 a.m. (CDT), Feb. 8, 1974. The splashdown, which occurred 176 statute miles from San Diego, ended 84 record-setting days of flight activity aboard the Skylab space station cluster in Earth orbit.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/s74-17744orig.jpg" length="1902703" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/s74-17744orig/</guid>
+			<pubDate>Thu, 08 Feb 2024 16:33 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Astronaut Bruce McCandless Performs the First Untethered Spacewalk</title>
+			<link>https://www.nasa.gov/image-detail/s84-27018orig/</link>
+			<description>Astronaut Bruce McCandless II approaches his maximum distance from the Earth-orbiting Space Shuttle Challenger in this 70mm frame photographed by his fellow crewmembers onboard the reusable vehicle. McCandless is in the midst of the first &#034;field&#034; tryout of the nitrogen-propelled, hand-controlled back-pack device called the manned maneuvering unit (MMU). Astronaut Robert L. Stewart got a chance to test the same unit a while later in the lengthy EVA session while the two spacewalkers were photographed and monitored by their fellow crewmembers in Challenger&#039;s cabin. Those inside were Astronauts Vance D. Brand, Robert L. Gibson and Dr. Ronald E. McNair.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/s84-27018orig.jpg" length="2267458" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/s84-27018orig/</guid>
+			<pubDate>Wed, 07 Feb 2024 19:17 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>First Artemis Moon Crew Trains for Return to Earth</title>
+			<link>https://www.nasa.gov/image-detail/jsc2024e009648orig/</link>
+			<description>NASA astronaut and Artemis II commander Reid Wiseman exits the side of a mockup of the Orion spacecraft during a training exercise in the Neutral Buoyancy Lab at NASA’s Johnson Space Center in Houston on Jan. 23. As part of training for their mission around the Moon next year, the first crewed flight under NASA’s Artemis campaign, the crew of four astronauts practiced the recovery procedures they will use when the splash down in the Pacific Ocean.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/jsc2024e009648orig.jpg" length="1476650" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/jsc2024e009648orig/</guid>
+			<pubDate>Tue, 06 Feb 2024 19:24 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin</title>
+			<link>https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/</link>
+			<description>&#034;... it&#039;s challenge, service, and building the future. If I don&#039;t do anything else in my entire life except for those three things, I&#039;m at least getting something right. I might be getting everything else entirely wrong, but I can at least work toward those three things.” — Dr. Rodney Martin, Deputy Discovery and Systems Health Technical Area Lead, NASA’s Ames Research Center</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/rodneymartin-acd23-0133-010.jpg" length="1959864" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/enviromental-portrait-of-rodney-martin/</guid>
+			<pubDate>Mon, 05 Feb 2024 19:09 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Hubble Sees a Merged Galaxy</title>
+			<link>https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/</link>
+			<description>This new NASA Hubble Space Telescope image shows ESO 185-IG013, a luminous blue compact galaxy (BCG). BCGs are nearby galaxies that show an intense burst of star formation. They are unusually blue in visible light, which sets them apart from other high-starburst galaxies that emit more infrared light.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/hubble-eso185-ig013-strm2-3-flat.png" length="12775538" type="image/png" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/hubble-eso185-ig013-strm2-3-flat/</guid>
+			<pubDate>Fri, 02 Feb 2024 16:05 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>First Hot Fire Test of the Year for Artemis</title>
+			<link>https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/</link>
+			<description>NASA completed a full-duration, 500-second hot fire of an RS-25 certification engine Jan. 17, continuing a critical test series to support future SLS (Space Launch System) missions to the Moon and beyond as NASA explores the secrets of the universe for the benefit of all.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/02/s24-001-ssc-20240117-s00006-rs-25-testorig.jpg" length="1900383" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/s24-001-ssc-20240117-s00006-rs-25-testorig/</guid>
+			<pubDate>Thu, 01 Feb 2024 19:08 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Cygnus Flies to the International Space Station</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-479/</link>
+			<description>A successful liftoff from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida as Northrop Grumman’s Cygnus spacecraft, atop a SpaceX Falcon 9 rocket, heads to the International Space Station for the 20th Northrop Grumman resupply mission on Tuesday, Jan. 30, 2024. The spacecraft is expected to reach the space station Thursday, Feb. 1, 2024, bringing 8,200 pounds of science investigations, supplies, and equipment for the international crew.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/ksc-20240130-ph-spx02-0003orig.jpg" length="1192532" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-479/</guid>
+			<pubDate>Wed, 31 Jan 2024 20:02 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Earth&#039;s Atmospheric Glow</title>
+			<link>https://www.nasa.gov/image-detail/iss070e076676/</link>
+			<description>This high exposure photograph revealed Earth&#039;s atmospheric glow against the backdrop of a starry sky in this image taken from the International Space Station on Jan. 21, 2024. At the time, the orbital lab was 258 miles above the Pacific Ocean northeast of Papua New Guinea. The Nauka science module and Prichal docking module are visible at left.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/iss070e076676orig-iotd.jpg" length="10938152" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/iss070e076676/</guid>
+			<pubDate>Tue, 30 Jan 2024 19:34 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A New Home for Ingenuity Mars Helicopter Prototype</title>
+			<link>https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/</link>
+			<description>The aerial prototype of the Ingenuity Mars Helicopter is seen at the Smithsonian National Air and Space Museum’s Steve F. Udvar-Hazy Center, Friday, Dec. 15, 2023, in Chantilly, Va. The prototype, which was the first to demonstrate it was possible to fly in a simulated Mars environment at NASA’s Jet Propulsion Laboratory, was donated to the museum on Friday.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/53399676593-57707b89f8-o.jpg" length="34280884" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/ingenuity-mars-helicopter-prototype-donation-to-nasm/</guid>
+			<pubDate>Mon, 29 Jan 2024 19:24 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Day of Remembrance</title>
+			<link>https://www.nasa.gov/image-detail/day-of-remembrance-13/</link>
+			<description>From left to right, NASA Administrator Bill Nelson, NASA Deputy Administrator Pam Melroy, and Deputy Chief of Mission for the Embassy of Israel Eliav Benjamin, place wreaths at the Space Shuttle Columbia Memorial during a ceremony that was part of NASA&#039;s Day of Remembrance, Thursday, Jan. 25, 2024, at Arlington National Cemetery in Arlington, Va. The wreaths were laid in memory of those men and women who lost their lives in the quest for space exploration.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/53487781115-4a1a9848fa-o.jpg" length="15086704" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/day-of-remembrance-13/</guid>
+			<pubDate>Thu, 25 Jan 2024 23:02 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Celebrating NASA&#039;s Spirit and Opportunity Rovers’ Mars Landings</title>
+			<link>https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/</link>
+			<description>On the 20th anniversary of the landing of Spirit and Opportunity, celebrate NASA’s Mars Exploration Rover Project with this two-sided poster that lists some of the pioneering explorers’ accomplishments on the Red Planet.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b.png" length="2458803" type="image/png" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/e1-mer-20th-poster-vert-front-1080x1920-1-eefb7b/</guid>
+			<pubDate>Wed, 24 Jan 2024 18:45 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Axiom Mission 3 Launches to the International Space Station</title>
+			<link>https://www.nasa.gov/image-detail/afs-8-101-474/</link>
+			<description>A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft for Axiom Space’s Axiom Mission 3 (Ax-3) to the International Space Station lifts off at 4:49 p.m. EST from Launch Complex 39A at NASA’s Kennedy Space Center in Florida on Thursday, Jan. 18, 2024. Ax-3 is the third all private astronaut mission to the space station, sending crew members Commander Michael López-Alegría, Pilot Walter Villadei, and Mission Specialists Marcus Wandt and Alper Gezeravci into orbit. The crew will spend about two weeks conducting microgravity research, educational outreach, and commercial activities aboard the space station.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/ksc-20240118-ph-cms01-0025orig.jpg" length="14383787" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/afs-8-101-474/</guid>
+			<pubDate>Tue, 23 Jan 2024 19:09 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA Interns at Johnson’s Rock Yard</title>
+			<link>https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/</link>
+			<description>A NASA intern uses an augmented reality headset to test out heads-up display technology being developed for future Artemis missions. This technology was created as part of the NASA Spacesuit User Interface Technologies for Students, or SUITS, design challenge in which college students from across the country help design user interface solutions for future spaceflight needs.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/52945857760-666c5484fe-o.jpg" length="4229658" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/52945857760-666c5484fe-o/</guid>
+			<pubDate>Mon, 22 Jan 2024 20:35 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample</title>
+			<link>https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/</link>
+			<description>A top-down view of the OSIRIS-REx Touch-and-Go-Sample-Acquisition-Mechanism (TAGSAM) head with the lid removed, revealing the remainder of the asteroid sample inside. Erika Blumenfeld, creative lead for the Advanced Imaging and Visualization of Astromaterials (AIVA) and Joe Aebersold, project management lead, captured this picture using manual high-resolution precision photography and a semi-automated focus stacking procedure. The result is an image that can be zoomed in on to show extreme detail of the sample. The remaining sample material includes dust and rocks up to about .4 in (one cm) in size.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/orex-high-res.jpg" length="23533151" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/osiris-rex-pe-examination-5/</guid>
+			<pubDate>Fri, 19 Jan 2024 18:31 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Hubble Captures a Monster Merger</title>
+			<link>https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/</link>
+			<description>This Hubble Picture of the Week features Arp 122, a peculiar galaxy that in fact comprises two galaxies — NGC 6040, the tilted, warped spiral galaxy and LEDA 59642, the round, face-on spiral — that are in the midst of a collision.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/potw2402a-1.jpg" length="3114351" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/when-one-plus-one-eventually-equals-one/</guid>
+			<pubDate>Thu, 18 Jan 2024 19:01 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>An Aurora in Another Light</title>
+			<link>https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/</link>
+			<description>The Visible Infrared Imaging Radiometer Suite sensor on the NOAA-NASA Suomi NPP satellite captured this image of the aurora borealis, or northern lights, over western Canada on November 5, 2023.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/nameraurora-vir-2023309-lrg.jpg" length="716569" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/nameraurora-vir-2023309-lrg/</guid>
+			<pubDate>Wed, 17 Jan 2024 19:57 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>NASA’s X-59 Quiet Supersonic Research Aircraft Unveiled</title>
+			<link>https://www.nasa.gov/image-detail/nasas-x-59-quiet-supersonic-research-aircraft-unveiled/</link>
+			<description>NASA and Lockheed Martin publicly unveil the X-59 quiet supersonic research aircraft at a ceremony in Lockheed Martin’s Skunk Works facility in Palmdale, California. The X-59 is the centerpiece of NASA’s Quesst mission, which seeks to solve one of the major barriers to supersonic flight over land, currently banned in the United States, by making sonic booms quieter.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/afrc2024-0004-001orig.jpg" length="18127206" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/nasas-x-59-quiet-supersonic-research-aircraft-unveiled/</guid>
+			<pubDate>Tue, 16 Jan 2024 19:34 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Verdant Farmlands of Simsbury, Connecticut</title>
+			<link>https://www.nasa.gov/image-detail/simsbury-oli2-2022258-lrg/</link>
+			<description>The Operational Land Imager-2 on Landsat 9 captured this image of Simsbury on September 15, 2022. The tobacco farm where Martin Luther King worked—Meadowood—is located west of the Farmington River, a tributary of the Connecticut River.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/simsbury-oli2-2022258-lrg.jpg" length="12212725" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/simsbury-oli2-2022258-lrg/</guid>
+			<pubDate>Fri, 12 Jan 2024 16:19 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>30 Doradus B: NASA Telescopes Start the Year With a Double Bang</title>
+			<link>https://www.nasa.gov/image-detail/30dorb/</link>
+			<description>This deep dataset from Chandra of the remains of a supernova known as 30 Doradus B (30 Dor B) reveals evidence for more than one supernova explosion in the history of this remnant. Unusual structures in the Chandra data cannot be explained by a single explosion. These images of 30 Dor B also show optical data from the Blanco telescope in Chile, and infrared data from Spitzer. Additional data from Hubble highlights sharp features in the image.</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/30dorb.jpg" length="14953433" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/30dorb/</guid>
+			<pubDate>Thu, 11 Jan 2024 18:31 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>Orbital-1 Launch: 10th Anniversary</title>
+			<link>https://www.nasa.gov/image-detail/orbital-1-mission-antares-launch/</link>
+			<description>An Orbital Sciences Corporation Antares rocket is seen as it launches from Pad-0A at NASA&#039;s Wallops Flight Facility, Thursday, January 9, 2014, Wallops Island, VA. Antares is carrying the Cygnus spacecraft on a cargo resupply mission to the International Space Station. The Orbital-1 mission is Orbital Sciences&#039; first contracted cargo delivery flight to the space station for NASA. Cygnus is carrying science experiments, crew provisions, spare parts and other hardware to the space station. Photo Credit: (NASA/Bill Ingalls)</description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/11861725206-3c032d701d-o.jpg" length="4664658" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/orbital-1-mission-antares-launch/</guid>
+			<pubDate>Wed, 10 Jan 2024 19:05 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+		<item>
+			<title>A &#034;Green Monster&#034; Lurks in Star&#039;s Debris</title>
+			<link>https://www.nasa.gov/image-detail/casa-greenmonster-2/</link>
+			<description>For the first time, astronomers have combined data from NASA’s Chandra X-ray Observatory and James Webb Space Telescope to study the well-known supernova remnant Cassiopeia A (Cas A). This work has helped explain an unusual structure in the debris from the destroyed star called the “Green Monster,” because of its resemblance to the wall in the left field of Fenway Park. </description>
+			<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/casa-greenmonster-1.jpg" length="9249215" type="image/jpeg" />
+			<guid isPermaLink="false">https://www.nasa.gov/image-detail/casa-greenmonster-2/</guid>
+			<pubDate>Tue, 09 Jan 2024 19:11 GMT</pubDate>
+			<source url="https://www.nasa.gov/feeds/iotd-feed">NASA Image of the Day</source>
+		</item>
+</channel>
+</rss>
