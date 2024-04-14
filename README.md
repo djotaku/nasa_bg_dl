@@ -21,3 +21,9 @@ At $HOME/.config/nasa_bg_dl/settings.json fill in the following
 ```
 
 Then either run it once per day or put it in a cron job to run once per day.
+
+logs will go to $HOME/.local/share/nasa_bg_dl/nasa_bg_dl.log
+
+## TODO
+- Make sure errors also end up in the log
+- use Lumberjack to rotate logs
