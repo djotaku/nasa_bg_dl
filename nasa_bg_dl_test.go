@@ -1,9 +1,10 @@
-package main
+package nasa_bg_dl
 
 import (
-	"github.com/mmcdole/gofeed"
 	"os"
 	"testing"
+
+	"github.com/mmcdole/gofeed"
 )
 
 func TestSquareRatio(t *testing.T) {
