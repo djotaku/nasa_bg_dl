@@ -2,7 +2,10 @@ module nasa_bg_dl
 
 go 1.21.9
 
-require github.com/mmcdole/gofeed v1.3.0
+require (
+	github.com/adrg/xdg v0.4.0
+	github.com/mmcdole/gofeed v1.3.0
+)
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
@@ -12,5 +15,6 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	golang.org/x/net v0.4.0 // indirect
+	golang.org/x/sys v0.3.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
 )
