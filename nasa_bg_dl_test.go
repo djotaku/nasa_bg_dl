@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log/slog"
 	"os"
 	"testing"
 
@@ -36,7 +37,10 @@ func TestGetImageMeta(t *testing.T) {
 	defer file.Close()
 	fp := gofeed.NewParser()
 	feed, _ := fp.Parse(file)
-	images := getImageMeta(*feed)
+	fakeLogger1 := slog.Default()
+	fakeLogger2 := slog.Default()
+	logs := [2]*slog.Logger{fakeLogger1, fakeLogger2}
+	images := getImageMeta(*feed, logs)
 	if len(images) != 3 {
 		t.Fatalf(`len(images) = %q, want 3`, len(images))
 	}

@@ -6,11 +6,12 @@ import (
 	"image"
 	_ "image/jpeg"
 	"io"
+	"log"
+	"log/slog"
 	"net/http"
 	"os"
 	"strings"
 	"sync"
-
 	"time"
 
 	"github.com/adrg/xdg"
@@ -55,7 +56,7 @@ func getDirectories() directories {
 }
 
 // getImage downloads the image and puts it in the directory where it it should end up.
-func getImage(image [3]string, outputDirectories directories, wg *sync.WaitGroup) {
+func getImage(image [3]string, outputDirectories directories, wg *sync.WaitGroup, logs [2]*slog.Logger) {
 	defer wg.Done()
 	folder := outputDirectories.Tmp
 	filename := image[2]
@@ -80,7 +81,9 @@ func getImage(image [3]string, outputDirectories directories, wg *sync.WaitGroup
 	if err != nil {
 		fmt.Println(err)
 	} else {
-		fmt.Printf("Moved image with title %s to %s\n", image[0], newPathFile)
+		logs[0].Info("Downloaded and moved image", "title", image[0], "destination", newPathFile)
+		cliLogOutput := fmt.Sprintf("Downloaded and moved image with title %s to %s\n", image[0], newPathFile)
+		logs[1].Info(cliLogOutput)
 	}
 }
 
@@ -88,13 +91,23 @@ func main() {
 
 	var wg sync.WaitGroup
 
+	logFilePath, _ := xdg.DataFile("nasa_bg_dl/nasa_bg_dl.log")
+	logFile, err := os.OpenFile(logFilePath, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0775)
+	if err != nil {
+		log.Printf("Error %s\n", err)
+	}
+
+	fileLogger := slog.New(slog.NewJSONHandler(logFile, nil))
+	logger := slog.Default()
+	logs := [2]*slog.Logger{fileLogger, logger}
+
 	outputDirectories := getDirectories()
 	fp := gofeed.NewParser()
 	feed, _ := fp.ParseURL("https://www.nasa.gov/feeds/iotd-feed")
-	imagesToGet := getImageMeta(*feed)
+	imagesToGet := getImageMeta(*feed, logs)
 	for _, image := range imagesToGet {
 		wg.Add(1)
-		go getImage(image, outputDirectories, &wg)
+		go getImage(image, outputDirectories, &wg, logs)
 	}
 	wg.Wait()
 
@@ -123,7 +136,7 @@ func DownloadFile(filepath string, url string) error {
 
 // getImageMeta takes in a feed and returns an array
 // with 3 titles and URLs to fetch
-func getImageMeta(feed gofeed.Feed) [3][3]string {
+func getImageMeta(feed gofeed.Feed, logs [2]*slog.Logger) [3][3]string {
 	items := feed.Items
 	var images [3][3]string
 	for pos, item := range items {
@@ -131,7 +144,9 @@ func getImageMeta(feed gofeed.Feed) [3][3]string {
 		RFC1123NoSeconds := "Mon, 02 Jan 2006 15:04 MST"
 		itemTime, err := time.ParseInLocation(RFC1123NoSeconds, item.Published, location)
 		if err != nil {
-			fmt.Printf("Error parsing time. Error is %s\n", err)
+			logs[0].Error("Error parsing time.", "Error", err)
+			cliError := fmt.Sprintf("Error parsing time. Error is %s\n", err)
+			logs[1].Error(cliError)
 		}
 		itemDateString := itemTime.Format(time.DateOnly) + "_"
 		images[pos] = [3]string{item.Title, item.Enclosures[0].URL, itemDateString}

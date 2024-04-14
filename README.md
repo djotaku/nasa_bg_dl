@@ -21,6 +21,3 @@ At $HOME/.config/nasa_bg_dl/settings.json fill in the following
 ```
 
 Then either run it once per day or put it in a cron job to run once per day.
-
-## TODO
-- SLOG?
