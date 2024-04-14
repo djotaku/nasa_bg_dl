@@ -1,4 +1,4 @@
-package nasa_bg_dl
+package main
 
 import (
 	"os"

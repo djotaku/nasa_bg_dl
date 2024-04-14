@@ -22,7 +22,7 @@ jobs:
         go-version: '1.21.9'
 
     - name: Build
-      run: go build -v 
+      run: go build -v nasa_bg_dl.go
 
     - name: Test
       run: go test -v 
