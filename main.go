@@ -56,15 +56,14 @@ func getDirectories() directories {
 }
 
 // getImage downloads the image and puts it in the directory where it it should end up.
-func getImage(image [3]string, outputDirectories directories, wg *sync.WaitGroup, logs [2]*slog.Logger) {
+func getImage(image ImageMetadata, outputDirectories directories, wg *sync.WaitGroup, logs [2]*slog.Logger) {
 	defer wg.Done()
 	folder := outputDirectories.Tmp
-	filename := image[2]
-	filename += strings.ReplaceAll(image[0], " ", "_")
+	filename := image.Date
+	filename += strings.ReplaceAll(image.Title, " ", "_")
 	fileSuffix := ".jpg"
-	imageURL := image[1]
 	pathFile := folder + filename + fileSuffix
-	DownloadFile(pathFile, imageURL)
+	DownloadFile(pathFile, image.URL)
 	orientation := determineRatio(pathFile)
 	var newPathFile string
 	switch {
@@ -81,8 +80,8 @@ func getImage(image [3]string, outputDirectories directories, wg *sync.WaitGroup
 	if err != nil {
 		fmt.Println(err)
 	} else {
-		logs[0].Info("Downloaded and moved image", "title", image[0], "destination", newPathFile)
-		cliLogOutput := fmt.Sprintf("Downloaded and moved image with title %s to %s\n", image[0], newPathFile)
+		logs[0].Info("Downloaded and moved image", "title", image.Title, "destination", newPathFile)
+		cliLogOutput := fmt.Sprintf("Downloaded and moved image with title %s to %s\n", image.Title, newPathFile)
 		logs[1].Info(cliLogOutput)
 	}
 }
@@ -134,11 +133,17 @@ func DownloadFile(filepath string, url string) error {
 	return err
 }
 
+type ImageMetadata struct {
+	Title string
+	URL   string
+	Date  string
+}
+
 // getImageMeta takes in a feed and returns an array
 // with 3 titles and URLs to fetch
-func getImageMeta(feed gofeed.Feed, logs [2]*slog.Logger) [3][3]string {
+func getImageMeta(feed gofeed.Feed, logs [2]*slog.Logger) [3]ImageMetadata {
 	items := feed.Items
-	var images [3][3]string
+	var images [3]ImageMetadata
 	for pos, item := range items {
 		location, _ := time.LoadLocation("GMT")
 		RFC1123NoSeconds := "Mon, 02 Jan 2006 15:04 MST"
@@ -149,7 +154,7 @@ func getImageMeta(feed gofeed.Feed, logs [2]*slog.Logger) [3][3]string {
 			logs[1].Error(cliError)
 		}
 		itemDateString := itemTime.Format(time.DateOnly) + "_"
-		images[pos] = [3]string{item.Title, item.Enclosures[0].URL, itemDateString}
+		images[pos] = ImageMetadata{item.Title, item.Enclosures[0].URL, itemDateString}
 		if pos == 2 {
 			break
 		}
