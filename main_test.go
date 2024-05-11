@@ -44,7 +44,7 @@ func TestGetImageMeta(t *testing.T) {
 	if len(images) != 3 {
 		t.Fatalf(`len(images) = %q, want 3`, len(images))
 	}
-	if images[0][0] != "The First Space Shuttle" {
-		t.Fatalf(`images[0][0] == %q, want "The First Space Shuttle"`, images[0][0])
+	if images[0].Title != "The First Space Shuttle" {
+		t.Fatalf(`images[0][0] == %q, want "The First Space Shuttle"`, images[0].Title)
 	}
 }
