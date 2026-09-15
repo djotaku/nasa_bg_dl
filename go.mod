@@ -1,6 +1,6 @@
 module nasa_bg_dl
 
-go 1.21.9
+go 1.26.8
 
 require (
 	github.com/adrg/xdg v0.4.0
