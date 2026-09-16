@@ -42,7 +42,7 @@ func TestGetImageMeta(t *testing.T) {
 	logs := [2]*slog.Logger{fakeLogger1, fakeLogger2}
 	images := getImageMeta(*feed, logs)
 	if len(images) != 3 {
-		t.Fatalf(`len(images) = %q, want 3`, len(images))
+		t.Fatalf(`len(images) = %d, want 3`, len(images))
 	}
 	if images[0].Title != "The First Space Shuttle" {
 		t.Fatalf(`images[0][0] == %q, want "The First Space Shuttle"`, images[0].Title)
